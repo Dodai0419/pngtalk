@@ -1,0 +1,8 @@
+pngtalk is written from scratch. No code from the projects below is included; their published behaviour
+and documentation shaped it:
+
+- LivLiv Player (https://github.com/livliv-dev/player, Apache-2.0): the PNGTuber picture set (mouth closed,
+  mouth open, and eyes-closed versions), a mouth driven by voice loudness, idle breathing and blinking.
+- Digital Human Koubo (https://github.com/andyhuo520/digital-human-koubo, MIT, Copyright (c) 2026
+  Berryxia (andyhuo520)): the talking-head packaging step: voice clean-up, captions in the lower third,
+  a title, vertical 9:16 delivery.

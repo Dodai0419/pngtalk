@@ -1,0 +1,13 @@
+{
+  "name": "pngtalk",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "pngtalk",
+      "source": "./",
+      "description": "Turn a voice recording into a talking-character video for Shorts, Reels or YouTube. Offline, no API, no credits."
+    }
+  ]
+}
